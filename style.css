@@ -10,7 +10,7 @@
 
 .wrap__nav a {
   color: #0000FF;
-  padding:15px 10px;
+  padding: 15px 10px;
   text-decoration: none;
   text-align: center;
   font-size: 30px;
@@ -81,37 +81,37 @@
     display: inline-block; 
 }
 
-@media (min-width:1281px) {
+@media (min-width: 1281px) {
   .section {
     font-size: 45px;
   }
 }
 
-@media (min-width:320px) {
+@media (min-width: 320px) {
   .section {
     font-size: 20px;
   }
 }
 
-@media (min-width:481px) {
+@media (min-width: 481px) {
   .section {
     font-size: 25px;
   }
 }
 
-@media (min-width:641px) {
+@media (min-width: 641px) {
   .section {
     font-size: 30px;
   }
 }
 
-@media (min-width:961px) {
+@media (min-width: 961px) {
   .section {
     font-size: 35px;
   }
 }
 
-@media (min-width:1025px) {
+@media (min-width: 1025px) {
   .section {
     font-size: 40px;
   }
