@@ -61,7 +61,7 @@
   .wrap__nav a { 
     flex-grow:1;
 }
-.clearfix {
+ .clearfix {
     display: block;
  }
 }
